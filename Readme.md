@@ -2,6 +2,7 @@
 
 
 ## 100 Days of Maths Challenge
+### Powered By Nōrai | AI & Education
 ### Learning Today, Tomorrow, and Beyond!
 Last year, I completed the FreeCodeCamp Machine Learning Tutorial and successfully finished my **#100DaysOfLearning** journey. During this process, I stronlgy realized that **Mathematics is the true Backbone of AI**. To further strengthen my skills and build a solid foundation, I am starting the **#100DaysOfMaths** challenge.
 
@@ -33,5 +34,5 @@ Connect with me on social media or comment on my posts if you are interested in 
 
 #### GitHub Clone: 
 git@github.com:Dilli822/100DaysOfMaths.git
-#### Powered By Nōrai | AI & Education
+## Powered By Nōrai | AI & Education
 
