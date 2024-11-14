@@ -4,7 +4,7 @@
 ## 100 Days of Maths Challenge
 ### Powered By Nōrai | AI & Education
 ### Learning Today, Tomorrow, and Beyond!
-Last year, I completed the FreeCodeCamp Machine Learning Tutorial and successfully finished my **#100DaysOfLearning** journey. During this process, I stronlgy realized that **Mathematics is the true Backbone of AI**. To further strengthen my skills and build a solid foundation, I am starting the **#100DaysOfMaths** challenge.
+Last year, I completed the FreeCodeCamp Machine Learning Tutorial and successfully finished my **#100DaysOfLearning** journey. During this process, I strongly realized that **Mathematics is the true Backbone of AI**. To further strengthen my skills and build a solid foundation, I am starting the **#100DaysOfMaths** challenge.
 
 #### 🚀 Challenge Start Date
 **📅 Start Date**: 16th November 2024 (1st Mangsir, 2081)
@@ -18,6 +18,8 @@ In this challenge, I will be diving deep into three key areas of mathematics ess
 
 #### 🤝 Join Me! Before 16 Nov, 2024
 If anyone is interested in joining this journey and learning together, I’d love to team up! Let’s make our math skills stronger and dive deeper into the foundations of AI. Together, we can share resources, solve problems, and motivate each other to stay on track.
+##### Mail: dillihangrae@gmail.com
+
 
 #### 🏷️ Hashtags
 Feel free to use these hashtags while finding the progress:
@@ -34,5 +36,9 @@ Connect with me on social media or comment on my posts if you are interested in 
 
 #### GitHub Clone: 
 git@github.com:Dilli822/100DaysOfMaths.git
+
+#### Social Media:
+##### 1. Twitter: https://x.com/dilli_hangrae
+
 ## Powered By Nōrai | AI & Education
 
