@@ -7,7 +7,10 @@
 Last year, I completed the FreeCodeCamp Machine Learning Tutorial and successfully finished my **#100DaysOfLearning** journey. During this process, I strongly realized that **Mathematics is the true Backbone of AI**. To further strengthen my skills and build a solid foundation, I am starting the **#100DaysOfMaths** challenge.
 
 #### 🚀 Challenge Start Date
-**📅 Start Date**: 16th November 2024 (1st Mangsir, 2081)
+**📅 Start Date**: 17th November 2024 (1st Mangsir, 2081)
+
+### 🧮 Post will be uploaded only at twitter:
+https://x.com/dilli_hangrae
 
 #### 📚 Focus Areas
 In this challenge, I will be diving deep into three key areas of mathematics essential for AI:
