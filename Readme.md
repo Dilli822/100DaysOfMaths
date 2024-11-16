@@ -30,9 +30,17 @@ Feel free to use these hashtags while finding the progress:
 - **#LearningwithNorai**
 
 #### 📈 Progress Tracking
-| Day | Topic Covered                 | Notes/Resources 
-|-----|-------------------------------|----------------
-| 1   | Introduction to Calculus      | 
+## 📝 Daily Progress
+
+| Day | Topic & Twitter Post 
+| --- | ------------------------------------------------------------------------------------------
+| 1   | Introduction to Limits & Continuity: Fundamental of Calculus, https://x.com/dilli_hangrae/status/1857699039774708032
+| |
+| |
+| |
+| |
+
+
 
 #### 💬 Get Involved
 Connect with me on social media or comment on my posts if you are interested in explore my learnings.
