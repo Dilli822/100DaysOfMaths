@@ -37,7 +37,7 @@ Feel free to use these hashtags while finding the progress:
 | 1   | Introduction to Limits & Continuity: Fundamental of Calculus, https://x.com/dilli_hangrae/status/1857699039774708032
 | 2   | Limit of a function meaning of infinity, Infinity as a limit of a function, Limit theorems & visual plots, https://x.com/dilli_hangrae/status/1858000934187778437
 | 3   | Important theorem on limit and gradient descent visualizations, limit theorem examples, https://x.com/dilli_hangrae/status/1858425488286626133
-| |
+| 4   | Limits, Left-Hand and Right-Hand Limits, Existence of Limits, Trigonometric Limit sin_theta and cos_theta, examples, python visualizations on limits, https://x.com/dilli_hangrae/status/1858765255608070158
 | |
 
 
