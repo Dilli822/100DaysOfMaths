@@ -27,7 +27,7 @@ If anyone is interested in joining this journey and learning together, I’d lov
 #### 🏷️ Hashtags
 Feel free to use these hashtags while finding the progress:
 - **#100DaysOfMaths**
-- **#LearningwithNorai**
+- **#100DaysOfMaths #100DaysOfSelfLearning #Maths**
 
 #### 📈 Progress Tracking
 ## 📝 Daily Progress
@@ -38,7 +38,7 @@ Feel free to use these hashtags while finding the progress:
 | 2   | Limit of a function meaning of infinity, Infinity as a limit of a function, Limit theorems & visual plots, https://x.com/dilli_hangrae/status/1858000934187778437
 | 3   | Important theorem on limit and gradient descent visualizations, limit theorem examples, https://x.com/dilli_hangrae/status/1858425488286626133
 | 4   | Limits, Left-Hand and Right-Hand Limits, Existence of Limits, Trigonometric Limit sin_theta and cos_theta, examples, python visualizations on limits, https://x.com/dilli_hangrae/status/1858765255608070158
-| |
+| 5   | - Continuity: Intuitive Idea with rules, Discontinuities with its types, Visualizations of Discontinuities f(x), https://x.com/dilli_hangrae/status/1859086373602656554
 
 
 
