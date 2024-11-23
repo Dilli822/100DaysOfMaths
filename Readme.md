@@ -41,7 +41,7 @@ Feel free to use these hashtags while finding the progress:
 | 5   | - Continuity: Intuitive Idea with rules, Discontinuities with its types, Visualizations of Discontinuities f(x), https://x.com/dilli_hangrae/status/1859086373602656554
 | 6   | - Continuity theorems and properties, continuity and discontinuity with numerical examples, https://x.com/dilli_hangrae/status/1859457655363993858
 | 7   | - Important theorem on limits logarithm & exponential functions e, Standard examples, Plots & Visualizations, https://x.com/dilli_hangrae/status/1859897454684213412
-
+| 8   | Precise Definition of Limit and advanc concept, https://x.com/dilli_hangrae/status/1860158625907638305
 #### 💬 Get Involved
 Connect with me on social media or comment on my posts if you are interested in explore my learnings.
 
