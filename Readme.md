@@ -1,6 +1,3 @@
-
-
-
 ## 100 Days of Maths Challenge
 ### Powered By Nōrai | AI & Education
 ### Learning Today, Tomorrow, and Beyond!
@@ -43,6 +40,9 @@ Feel free to use these hashtags while finding the progress:
 | 7   | - Important theorem on limits logarithm & exponential functions e, Standard examples, Plots & Visualizations, https://x.com/dilli_hangrae/status/1859897454684213412
 | 8   | Precise Definition of Limit and advanc concept, https://x.com/dilli_hangrae/status/1860158625907638305
 | 9   | Precise Defintion of Limit with advance concept and graphs, https://x.com/dilli_hangrae/status/1860562541430358375
+| 10  | Advanced Concept on Precise definition of limit, Examples and Visual Plots, Basics of Inequalities with types, https://x.com/dilli_hangrae/status/1860986050245791837
+|     |
+|     |
 #### 💬 Get Involved
 Connect with me on social media or comment on my posts if you are interested in explore my learnings.
 
