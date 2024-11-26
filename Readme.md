@@ -41,7 +41,7 @@ Feel free to use these hashtags while finding the progress:
 | 8   | Precise Definition of Limit and advanc concept, https://x.com/dilli_hangrae/status/1860158625907638305
 | 9   | Precise Defintion of Limit with advance concept and graphs, https://x.com/dilli_hangrae/status/1860562541430358375
 | 10  | Advanced Concept on Precise definition of limit, Examples and Visual Plots, Basics of Inequalities with types, https://x.com/dilli_hangrae/status/1860986050245791837
-|     |
+|  11 |  Advanced Concept on Precise definition of limit, Theorems and limit as a continuous function Examples and Visual Plots, https://x.com/dilli_hangrae/status/1861361970576007244
 |     |
 #### 💬 Get Involved
 Connect with me on social media or comment on my posts if you are interested in explore my learnings.
