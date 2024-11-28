@@ -43,7 +43,7 @@ Feel free to use these hashtags while finding the progress:
 | 10  | Advanced Concept on Precise definition of limit, Examples and Visual Plots, Basics of Inequalities with types, https://x.com/dilli_hangrae/status/1860986050245791837
 | 11  | Advanced Concept on Precise definition of limit, Theorems and limit as a continuous function Examples and Visual Plots, https://x.com/dilli_hangrae/status/1861361970576007244
 | 12  | Continuity Concepts and theorems,Intermediate Value Theorem https://x.com/dilli_hangrae/status1861710339747754415
-|  |
+| 13  | Continuity Concepts and theorems , Intuitive Ideas & Examples on Continuity, Visual Plots, https://x.com/dilli_hangrae/status/1862042788390637999
 |  |
 | |
 | |
