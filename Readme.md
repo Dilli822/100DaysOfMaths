@@ -44,7 +44,7 @@ Feel free to use these hashtags while finding the progress:
 | 11  | Advanced Concept on Precise definition of limit, Theorems and limit as a continuous function Examples and Visual Plots, https://x.com/dilli_hangrae/status/1861361970576007244
 | 12  | Continuity Concepts and theorems,Intermediate Value Theorem https://x.com/dilli_hangrae/status1861710339747754415
 | 13  | Continuity Concepts and theorems , Intuitive Ideas & Examples on Continuity, Visual Plots, https://x.com/dilli_hangrae/status/1862042788390637999
-|  |
+| 14  | Limit at infinity: Horizontal Asymptotes -ve ∞ to +ve ∞, Intro of Vertical Asymptotes, https://x.com/dilli_hangrae/status/1862336228495905139
 | |
 | |
 | |
