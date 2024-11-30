@@ -45,7 +45,7 @@ Feel free to use these hashtags while finding the progress:
 | 12  | Continuity Concepts and theorems,Intermediate Value Theorem https://x.com/dilli_hangrae/status1861710339747754415
 | 13  | Continuity Concepts and theorems , Intuitive Ideas & Examples on Continuity, Visual Plots, https://x.com/dilli_hangrae/status/1862042788390637999
 | 14  | Limit at infinity: Horizontal Asymptotes -ve ∞ to +ve ∞, Intro of Vertical Asymptotes, https://x.com/dilli_hangrae/status/1862336228495905139
-| |
+| 15  | Infinite Limits at Infinity & Limits at infinity, Examples and Theorems on Asymptotes, Visual Plots, https://x.com/dilli_hangrae/status/1862694849100873993   
 | |
 | |
 | |
