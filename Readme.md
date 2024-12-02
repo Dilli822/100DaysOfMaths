@@ -47,7 +47,7 @@ Feel free to use these hashtags while finding the progress:
 | 14  | Limit at infinity: Horizontal Asymptotes -ve ∞ to +ve ∞, Intro of Vertical Asymptotes, https://x.com/dilli_hangrae/status/1862336228495905139
 | 15  | Infinite Limits at Infinity & Limits at infinity, Examples and Theorems on Asymptotes, Visual Plots, https://x.com/dilli_hangrae/status/1862694849100873993   
 | 16  | ϵ-N definition of limits at infinity (L±ϵ), Slant Asymptotes and Examples , Visual Plots, https://x.com/dilli_hangrae/status/1863143196995559431
-| |
+| 17  | Intuitive idea of function and definition, Vertical Line Test with examples, Visual Plots, https://x.com/dilli_hangrae/status/1863380565241569608
 | |
 
 #### 💬 Get Involved
