@@ -50,7 +50,7 @@ Feel free to use these hashtags while finding the progress:
 | 17  | Intuitive idea of function and definition, Vertical Line Test with examples, Visual Plots, https://x.com/dilli_hangrae/status/1863380565241569608
 | 18  |  Odd & Even Symmetry f(x) & Piece-wise f(x), Linear Mathematical Model, Examples & Plots, https://x.com/dilli_hangrae/status/1863886493435249024
 |  19 | Composite Functions, Domain-Range and visual plots, https://x.com/dilli_hangrae/status/1864263763203117176
-|     |  
+|  20 | Derivative with uses & Intuitive idea, Tangents,Slope,Gradient Descent, Visual Plots, https://x.com/dilli_hangrae/status/1864631475741839414  
 #### 💬 Get Involved
 Connect with me on social media or comment on my posts if you are interested in explore my learnings.
 
