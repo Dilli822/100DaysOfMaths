@@ -52,7 +52,7 @@ Feel free to use these hashtags while finding the progress:
 |  19 | Composite Functions, Domain-Range and visual plots, https://x.com/dilli_hangrae/status/1864263763203117176
 |  20 | Derivative with uses & Intuitive idea, Tangents,Slope,Gradient Descent, Visual Plots, https://x.com/dilli_hangrae/status/1864631475741839414  
 | 21 | Derivative Definition with intuitive ideas, Instataneous Velocity, Visual Plots, https://x.com/dilli_hangrae/status/1864926870715929041
-|  |
+| 22 | Fundamental Formula of Differentiation, Relation between Continuous & Derivative, Visual Plots https://x.com/dilli_hangrae/status/1865269416260440324
 |  |
 |  | 
 #### 💬 Get Involved
