@@ -53,7 +53,7 @@ Feel free to use these hashtags while finding the progress:
 |  20 | Derivative with uses & Intuitive idea, Tangents,Slope,Gradient Descent, Visual Plots, https://x.com/dilli_hangrae/status/1864631475741839414  
 | 21 | Derivative Definition with intuitive ideas, Instataneous Velocity, Visual Plots, https://x.com/dilli_hangrae/status/1864926870715929041
 | 22 | Fundamental Formula of Differentiation, Relation between Continuous & Derivative, Visual Plots https://x.com/dilli_hangrae/status/1865269416260440324
-|  |
+| 23 | Derivatives of Inverse Circular f(x), logarithmic f(x), 1st Principle of dx using Limit Theorem, https://x.com/dilli_hangrae/status/1865667384289226829
 |  | 
 #### 💬 Get Involved
 Connect with me on social media or comment on my posts if you are interested in explore my learnings.
