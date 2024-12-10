@@ -55,6 +55,7 @@ Feel free to use these hashtags while finding the progress:
 | 22 | Fundamental Formula of Differentiation, Relation between Continuous & Derivative, Visual Plots https://x.com/dilli_hangrae/status/1865269416260440324
 | 23 | Derivatives of Inverse Circular f(x), logarithmic f(x), 1st Principle of dx using Limit Theorem, https://x.com/dilli_hangrae/status/1865667384289226829
 | 24 | Derivatives Fundamentals Rules of Differentiation, Sum,Product,Quotient,Chain Rule, Gif & Visual Plots, https://x.com/dilli_hangrae/status/1866076377348547056
+| 25 | Derivatives for logarithm & hyperbola f(x), Tangent,slope,rate of change & Examples ,Visual Plots, https://x.com/dilli_hangrae/status/1866429360607269088
 #### 💬 Get Involved
 Connect with me on social media or comment on my posts if you are interested in explore my learnings.
 
