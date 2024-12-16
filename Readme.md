@@ -58,7 +58,7 @@ Feel free to use these hashtags while finding the progress:
 | 25 | Derivatives for logarithm & hyperbola f(x), Tangent,slope,rate of change & Examples ,Visual Plots, https://x.com/dilli_hangrae/status/1866429360607269088
 | 26 | - Derivatives and Differentiable f(x), Review of Derivatives, Theorems & Examples, Visual Plots, https://x.com/dilli_hangrae/status/1866764220953661829
 | 27 |  Derivatives (Implicit)dx, Extreme Value Theorem, Fermat's Theorem and Rolle's Theorem, Visual Plots, https://x.com/dilli_hangrae/status/1868293602386096619
-|    |
+| 28 | Derivatives  & Application,Mean Value Theorem, Fermat's Theorem and Rolle's Theorem, Visual Plots https://x.com/dilli_hangrae/status/1868615031673499930
 #### 💬 Get Involved
 Connect with me on social media or comment on my posts if you are interested in explore my learnings.
 
