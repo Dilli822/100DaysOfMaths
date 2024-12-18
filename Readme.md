@@ -60,7 +60,7 @@ Feel free to use these hashtags while finding the progress:
 | 27 |  Derivatives (Implicit)dx, Extreme Value Theorem, Fermat's Theorem and Rolle's Theorem, Visual Plots, https://x.com/dilli_hangrae/status/1868293602386096619
 | 28 | Derivatives  & Application,Mean Value Theorem, Fermat's Theorem and Rolle's Theorem, Visual Plots https://x.com/dilli_hangrae/status/1868615031673499930
 | 29 | Derivatives  & Application, Geometric Mean Value Theorem, Conditions applied on MVT, Visual Plots, https://x.com/dilli_hangrae/status/1868998983320060312
-| 30 | Completion of 1st Phase, Revision of 1st Phase: Functions, Derivatives & Limits Applications ,Plots, https:/x.com/dilli_hangrae/status/1869330560734392527
+| 30 | Completion of 1st Phase, Revision of 1st Phase: Functions, Derivatives & Limits Applications ,Plots, https://x.com/dilli_hangrae/status/1869330560734392527
 #### 💬 Get Involved
 Connect with me on social media or comment on my posts if you are interested in explore my learnings.
 
