@@ -31,7 +31,7 @@ Feel free to use these hashtags while finding the progress:
 
 | Day | Topic & Twitter Post 
 | --- | ------------------------------------------------------------------------------------------
-| 31  |
+| 31  | 2nd Phase Begin, Linear System, Graphical Representation, Inconsistent & Consistent System, Matrix Notation of Linear Syste, Row Elementary Operation, https://x.com/dilli_hangrae/status/1869593373868474763
 
 #### 💬 Get Involved
 Connect with me on social media or comment on my posts if you are interested in explore my learnings.
