@@ -35,6 +35,7 @@ Feel free to use these hashtags while finding the progress:
 | 32  | Vector importance,equal,scaler,sum  ,General solution,uniqueness, row & reduced echelon form,plots, https://x.com/dilli_hangrae/status/1869942711484063967
 | 33  | Matrix Ax = b & Theorem, Geometric Description,Algebraic properties,Linear Combinations, Visual Plot, https://x.com/dilli_hangrae/status/1870454155867013568
 | 34  | Matrix Algebra, Sum and scaling, theorem of matrix, transpose of matrix and theorem of matrix tranpose,plots, https://x.com/dilli_hangrae/status/1870642318312943922
+| 35  | Matrix Algebra,Theorems on Partitioned & Invertible matrices,singular, non-singular, Visual Plots, https://x.com/dilli_hangrae/status/1871078025376518524
 
 #### 💬 Get Involved
 Connect with me on social media or comment on my posts if you are interested in explore my learnings.
