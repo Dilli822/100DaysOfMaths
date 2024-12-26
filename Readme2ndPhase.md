@@ -37,7 +37,7 @@ Feel free to use these hashtags while finding the progress:
 | 34  | Matrix Algebra, Sum and scaling, theorem of matrix, transpose of matrix and theorem of matrix tranpose,plots, https://x.com/dilli_hangrae/status/1870642318312943922
 | 35  | Matrix Algebra,Theorems on Partitioned & Invertible matrices,singular, non-singular, Visual Plots, https://x.com/dilli_hangrae/status/1871078025376518524
 | 36  | Partial Derivatives & Definitions, Limits,Continuity on multiple variables,examples of ∂, Visual Plot, https://x.com/dilli_hangrae/status/1871785661168226417
-| 3  | 
+| 37  | Partial Derivatives ∂, Euler's theorem,multiple variables ∂ &second-order partial ∂, Visual Plots, https://x.com/dilli_hangrae/status/1872139590997561665
 | 3  | 
 | 3  | 
 
