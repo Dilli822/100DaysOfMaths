@@ -39,7 +39,11 @@ Feel free to use these hashtags while finding the progress:
 | 36  | Partial Derivatives & Definitions, Limits,Continuity on multiple variables,examples of ∂, Visual Plot, https://x.com/dilli_hangrae/status/1871785661168226417
 | 37  | Partial Derivatives ∂, Euler's theorem,multiple variables ∂ &second-order partial ∂, Visual Plots, https://x.com/dilli_hangrae/status/1872139590997561665
 | 38  | 2nd Order Partial Derivative ∂ Examples & Implicit Differentiation,Hessian Matrix, 3D Visual Plots Gradient,https://x.com/dilli_hangrae/status/1872624148473864200 
-| 3  | 
+| 39  | Matrices: Jacobian, Standard Linear Transformation, Shear, Contraction, Dilation, 3D, 2D Visual Plots, https://x.com/dilli_hangrae/status/1873045508316643722
+| 4  | 
+| 4  | 
+| 4  |
+| 4 | 
 
 #### 💬 Get Involved
 Connect with me on social media or comment on my posts if you are interested in explore my learnings.
