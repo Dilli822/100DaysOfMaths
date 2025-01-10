@@ -41,7 +41,7 @@ Feel free to use these hashtags while finding the progress:
 | 38  | 2nd Order Partial Derivative ∂ Examples & Implicit Differentiation,Hessian Matrix, 3D Visual Plots Gradient,https://x.com/dilli_hangrae/status/1872624148473864200 
 | 39  | Matrices: Jacobian, Standard Linear Transformation, Shear, Contraction, Dilation, 3D, 2D Visual Plots, https://x.com/dilli_hangrae/status/1873045508316643722
 | 40  | Matrix Linear Transformation:theorem one-to-one, Trivial & non-trivial solutions, 3D,2D Visual Plots, https://x.com/dilli_hangrae/status/1873261465932825009
-| 41  | Newton's Method, Critical, Inflection Points, Concavity, Intercept, Symmetry, Asymptote, Optimization, 3D,2D Visual Plots,
+| 41  | Newton's Method, Critical, Inflection Points, Concavity, Intercept, Symmetry, Asymptote, Optimization, 3D,2D Visual Plots,https://x.com/dilli_hangrae/status/1877715401813188855
 | 4  |
 | 4 | 
 
