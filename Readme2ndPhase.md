@@ -43,7 +43,9 @@ Feel free to use these hashtags while finding the progress:
 | 40  | Matrix Linear Transformation:theorem one-to-one, Trivial & non-trivial solutions, 3D,2D Visual Plots, https://x.com/dilli_hangrae/status/1873261465932825009
 | 41  | Newton's Method, Critical, Inflection Points, Concavity, Intercept, Symmetry, Asymptote, Optimization, 3D,2D Visual Plots,https://x.com/dilli_hangrae/status/1877715401813188855
 | 42  | Anti-derivative Introduction, Detailed on Indefinite Integral,examples, Standard integrals, Visual Plots 3D/2D, https://x.com/dilli_hangrae/status/1877977515207344163
-| 4 | 
+| 43  | Integratals: Definte vs Indefinite Integrals, Important formulas, area under curve,examples, Visual Plots 3D/,2D, https://x.com/dilli_hangrae/status/1878261285915164830
+|    |
+
 
 #### 💬 Get Involved
 Connect with me on social media or comment on my posts if you are interested in explore my learnings.
