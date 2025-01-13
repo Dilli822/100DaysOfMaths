@@ -1,5 +1,65 @@
 import numpy as np
 import matplotlib.pyplot as plt
+from mpl_toolkits.mplot3d import Axes3D
+
+# Define the functions u(x) and v(x)
+def u(x):
+    return np.exp(-x**2)
+
+def v(x):
+    return x
+
+# Derivative of u(x) and v(x)
+def du(x):
+    return -2*x * np.exp(-x**2)
+
+def dv(x):
+    return 1
+
+# Compute the product of u(x) and v(x)
+def uv(x):
+    return u(x) * v(x)
+
+# Define the integral of v(x) * du(x)
+def integral_vdu(x):
+    dx = x[1] - x[0]  # Compute the spacing
+    # Use np.cumsum over the 1D array x and adjust shape
+    return np.cumsum(v(x) * du(x)) * dx  # Numerical integration (trapezoidal)
+
+# Set up the figure and axis
+x = np.linspace(-3, 3, 500)
+X, Y = np.meshgrid(x, x)
+
+# Compute the necessary values
+Z_uv = uv(X)
+Z_integral_vdu = integral_vdu(x)  # Make sure to pass 'x' for the integral function
+Z_result = Z_uv - Z_integral_vdu
+
+# Create a figure with both static and 3D plots
+fig = plt.figure(figsize=(14, 10))
+
+# Static 2D plot of uv and integral_vdu
+ax1 = fig.add_subplot(121)
+ax1.plot(x, uv(x), label=r'$uv$', color='blue')
+ax1.plot(x, integral_vdu(x), label=r'$\int v du$', color='red')
+ax1.set_title("2D Plot: $uv$ and $\int v du$")
+ax1.set_xlabel('x')
+ax1.set_ylabel('y')
+ax1.legend()
+
+# 3D Surface plot of uv
+ax2 = fig.add_subplot(122, projection='3d')
+ax2.plot_surface(X, Y, Z_uv, cmap='viridis')
+ax2.set_title(r'$uv$')
+ax2.set_xlabel('x')
+ax2.set_ylabel('y')
+ax2.set_zlabel('z')
+
+plt.show()
+
+
+import numpy as np
+import matplotlib.pyplot as plt
 from scipy.integrate import quad
 
 # Define acceleration function
@@ -257,70 +317,6 @@ plt.show()
 
 
 
-import numpy as np
-import matplotlib.pyplot as plt
-from mpl_toolkits.mplot3d import Axes3D
-
-# Define the functions u(x) and v(x)
-def u(x):
-    return np.exp(-x**2)
-
-def v(x):
-    return x
-
-# Derivative of u(x) and v(x)
-def du(x):
-    return -2*x * np.exp(-x**2)
-
-def dv(x):
-    return 1
-
-# Compute the product of u(x) and v(x)
-def uv(x):
-    return u(x) * v(x)
-
-# Define the integral of v(x) * du(x)
-def integral_vdu(x):
-    dx = x[1] - x[0]  # Compute the spacing
-    return np.cumsum(v(x) * du(x)) * dx  # Numerical integration (trapezoidal)
-
-# Set up the figure and axis
-x = np.linspace(-3, 3, 500)
-X, Y = np.meshgrid(x, x)
-
-# Compute the necessary values
-Z_uv = uv(X)
-Z_integral_vdu = integral_vdu(X)
-Z_result = Z_uv - Z_integral_vdu
-
-# Create 3D plot
-fig = plt.figure(figsize=(14, 10))
-
-# Plot uv
-ax = fig.add_subplot(131, projection='3d')
-ax.plot_surface(X, Y, Z_uv, cmap='viridis')
-ax.set_title(r'$uv$')
-ax.set_xlabel('x')
-ax.set_ylabel('y')
-ax.set_zlabel('z')
-
-# Plot integral_vdu
-ax = fig.add_subplot(132, projection='3d')
-ax.plot_surface(X, Y, Z_integral_vdu, cmap='viridis')
-ax.set_title(r'$\int v du$')
-ax.set_xlabel('x')
-ax.set_ylabel('y')
-ax.set_zlabel('z')
-
-# Plot result
-ax = fig.add_subplot(133, projection='3d')
-ax.plot_surface(X, Y, Z_result, cmap='viridis')
-ax.set_title(r'$uv - \int v du$')
-ax.set_xlabel('x')
-ax.set_ylabel('y')
-ax.set_zlabel('z')
-
-plt.show()
 
 import numpy as np
 import matplotlib.pyplot as plt
