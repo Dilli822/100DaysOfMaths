@@ -45,7 +45,7 @@ Feel free to use these hashtags while finding the progress:
 | 42  | Anti-derivative Introduction, Detailed on Indefinite Integral,examples, Standard integrals, Visual Plots 3D/2D, https://x.com/dilli_hangrae/status/1877977515207344163
 | 43  | Integratals: Definte vs Indefinite Integrals, Important formulas, area under curve,examples, Visual Plots 3D/,2D, https://x.com/dilli_hangrae/status/1878261285915164830
 | 44  | Intro Definite Integrals,Integration by parts, Riemann Sum(area under curve), Examples, Visual Plots 3D/2Dhttps://x.com/dilli_hangrae/status/1878785954334560637
-|    |
+| 45 | Definite Integral in-depth with applications, Theorems,Properties,rieexamples, Riemann Sum, Visual Plots 3D/2D, https://x.com/dilli_hangrae/status/1879070670547828841
 |    |
 |    |
 |    |
