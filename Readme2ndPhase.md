@@ -48,9 +48,8 @@ Feel free to use these hashtags while finding the progress:
 | 45 | Definite Integral in-depth with applications, Theorems,Properties,rieexamples, Riemann Sum, Visual Plots 3D/2D, https://x.com/dilli_hangrae/status/1879070670547828841
 | 46 | Applications of Integral:Area under curve,surface of revolution,in polar form,vol cylindrical shells, arc length, Visual Plots 3D/2D,animation, https://x.com/dilli_hangrae/status/1879493497117716856
 | 47 | L-Hospital's Rule, Ordinary Differential Equation (ODE), Degree & Solutions of ODE, Geometric Interpretation, 3D/2D Visual Plots, https://x.com/dilli_hangrae/status/1879848362557739140
-|    |
-|    |
-|    |
+| 48 | ODE variable separable,exact equation, Infinite sequence,Linear 1st & 2nd order equations,3D/2D Visual Plots, https://x.com/dilli_hangrae/status/1880241254350680454
+| 49 | Sequence & Theorem: Convergence & Divergence ,Series:Geometric,Taylor & Maclaurin Series,Telescoping,3D/2D Visual Plots, https://x.com/dilli_hangrae/status/1880531861807808798
 |    |
 |    |
 |    |
