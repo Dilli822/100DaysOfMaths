@@ -50,7 +50,7 @@ Feel free to use these hashtags while finding the progress:
 | 47 | L-Hospital's Rule, Ordinary Differential Equation (ODE), Degree & Solutions of ODE, Geometric Interpretation, 3D/2D Visual Plots, https://x.com/dilli_hangrae/status/1879848362557739140
 | 48 | ODE variable separable,exact equation, Infinite sequence,Linear 1st & 2nd order equations,3D/2D Visual Plots, https://x.com/dilli_hangrae/status/1880241254350680454
 | 49 | Sequence & Theorem: Convergence & Divergence ,Series:Geometric,Taylor & Maclaurin Series,Telescoping,3D/2D Visual Plots, https://x.com/dilli_hangrae/status/1880531861807808798
-|    |
+| 50 | Vector Space,Matrix:Dimension & Rank, Subspace of R^n, LU Factorization,Determinant |A|,Cramer's Rule, 3D/2D Plot, https://x.com/dilli_hangrae/status/1880924736416588004
 |    |
 |    |
 |    |
