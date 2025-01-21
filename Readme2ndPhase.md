@@ -52,7 +52,7 @@ Feel free to use these hashtags while finding the progress:
 | 49 | Sequence & Theorem: Convergence & Divergence ,Series:Geometric,Taylor & Maclaurin Series,Telescoping,3D/2D Visual Plots, https://x.com/dilli_hangrae/status/1880531861807808798
 | 50 | Vector Space,Matrix:Dimension & Rank, Subspace of R^n, LU Factorization,Determinant,Cramer's Rule, 3D/2D Plot,https://x.com/dilli_hangrae/status/1880924736416588004
 | 51 | Vector:Basis,Linear Independent & Dependent,Eigen,Spanning, Null Space,Column Space,Eigen Value,Kernel, Visual Plot, https://x.com/dilli_hangrae/status/1881396131118321752
-|    |
+| 52 | Least Squares,Orthogonal & Features,Inner Product, Orthogonal Projections,Gram-Schmidt Process,Linear Models, Plot, https://x.com/dilli_hangrae/status/1881694689142980969
 |    |
 |    |
 |    |
