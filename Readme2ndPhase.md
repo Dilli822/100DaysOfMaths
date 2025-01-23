@@ -54,7 +54,7 @@ Feel free to use these hashtags while finding the progress:
 | 51 | Vector:Basis,Linear Independent & Dependent,Eigen,Spanning, Null Space,Column Space,Eigen Value,Kernel, Visual Plot, https://x.com/dilli_hangrae/status/1881396131118321752
 | 52 | Least Squares,Orthogonal & Features,Inner Product, Orthogonal Projections,Gram-Schmidt Process,Linear Models, Plot, https://x.com/dilli_hangrae/status/1881694689142980969
 | 53 | Local & Absolute Maximum & Minimum,Point: Saddle & Critical, Taylor theorem,series,Tangent Plane,Normal Line, Plot, https://x.com/dilli_hangrae/status/1882032225702830276
-|    |
+| 54 | Lagrange's Multipliers & Method with cases,Constrained Maxima & Minima, Multiple Integrals,Fubini Theorem, Plot, https://x.com/dilli_hangrae/status/1882403714876707136
 |    |
 |    |
 |    |
