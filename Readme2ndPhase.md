@@ -55,7 +55,7 @@ Feel free to use these hashtags while finding the progress:
 | 52 | Least Squares,Orthogonal & Features,Inner Product, Orthogonal Projections,Gram-Schmidt Process,Linear Models, Plot, https://x.com/dilli_hangrae/status/1881694689142980969
 | 53 | Local & Absolute Maximum & Minimum,Point: Saddle & Critical, Taylor theorem,series,Tangent Plane,Normal Line, Plot, https://x.com/dilli_hangrae/status/1882032225702830276
 | 54 | Lagrange's Multipliers & Method with cases,Constrained Maxima & Minima, Multiple Integrals,Fubini Theorem, Plot, https://x.com/dilli_hangrae/status/1882403714876707136
-|    |
+| 55 | EXCLUSIVE:MUTUALLY,NON-MUTUALLY,PROBABILITY:COMPLEMENT,SUM, BIRTHDAY PROBLEM,DISJOINT & JOIN,Simulated Plot https://x.com/dilli_hangrae/status/1882682608766865827
 |    |
 |    |
 |    |
