@@ -57,7 +57,7 @@ Feel free to use these hashtags while finding the progress:
 | 54 | Lagrange's Multipliers & Method with cases,Constrained Maxima & Minima, Multiple Integrals,Fubini Theorem, Plot, https://x.com/dilli_hangrae/status/1882403714876707136
 | 55 | EXCLUSIVE:MUTUALLY,NON-MUTUALLY,PROBABILITY:COMPLEMENT,SUM, BIRTHDAY PROBLEM,DISJOINT & JOIN,Simulated Plot https://x.com/dilli_hangrae/status/1882682608766865827
 | 56 | Probability:Conditional,in ML,Distribution,Random X,Prior,Posterior,Theorem:Naive Bayes,Bayes,Example, 2D/3D plots, https://x.com/dilli_hangrae/status/1883090974311866420
-|    |
+| 57 | Probability Distributions: Normal,Uniform,Bernoulli,Binomial, Discrete to Continuous,PDF, CDF, PMF, Plot, https://x.com/dilli_hangrae/status/1883513435016884641
 |    |
 
 #### 💬 Get Involved
