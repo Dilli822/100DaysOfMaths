@@ -58,7 +58,7 @@ Feel free to use these hashtags while finding the progress:
 | 55 | EXCLUSIVE:MUTUALLY,NON-MUTUALLY,PROBABILITY:COMPLEMENT,SUM, BIRTHDAY PROBLEM,DISJOINT & JOIN,Simulated Plot https://x.com/dilli_hangrae/status/1882682608766865827
 | 56 | Probability:Conditional,in ML,Distribution,Random X,Prior,Posterior,Theorem:Naive Bayes,Bayes,Example, 2D/3D plots, https://x.com/dilli_hangrae/status/1883090974311866420
 | 57 | Probability Distributions: Normal,Uniform,Bernoulli,Binomial, Discrete to Continuous,PDF, CDF, PMF, Plot, https://x.com/dilli_hangrae/status/1883513435016884641
-|    |
+| 58 | Central Distributions,Interpretation of Gaussian Distibution, Chi-Square Distribution, Sampling from distribution, Expected value,sum of expectation, expected value of function, mean,mediain, mode, variance, centering with mean,Deviation and Standard deviation, visual 2d, 3d and animation plot, https://x.com/dilli_hangrae/status/1883787272287605030
 
 #### 💬 Get Involved
 Connect with me on social media or comment on my posts if you are interested in explore my learnings.
