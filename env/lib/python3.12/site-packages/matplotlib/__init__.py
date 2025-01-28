@@ -129,6 +129,8 @@ __all__ = [
     "interactive",
     "is_interactive",
     "colormaps",
+    "multivar_colormaps",
+    "bivar_colormaps",
     "color_sequences",
 ]
 
@@ -157,10 +159,8 @@ from packaging.version import parse as parse_version
 # cbook must import matplotlib only within function
 # definitions, so it is safe to import from it here.
 from . import _api, _version, cbook, _docstring, rcsetup
-from matplotlib.cbook import sanitize_sequence
 from matplotlib._api import MatplotlibDeprecationWarning
 from matplotlib.rcsetup import cycler  # noqa: F401
-from matplotlib.rcsetup import validate_backend
 
 
 _log = logging.getLogger(__name__)
@@ -225,6 +225,7 @@ def _get_version():
         else:
             return setuptools_scm.get_version(
                 root=root,
+                dist_name="matplotlib",
                 version_scheme="release-branch-semver",
                 local_scheme="node-and-date",
                 fallback_version=_version.version,
@@ -715,6 +716,35 @@ class RcParams(MutableMapping, dict):
         """
         return dict.__getitem__(self, key)
 
+    def _update_raw(self, other_params):
+        """
+        Directly update the data from *other_params*, bypassing deprecation,
+        backend and validation logic on both sides.
+
+        This ``rcParams._update_raw(params)`` replaces the previous pattern
+        ``dict.update(rcParams, params)``.
+
+        Parameters
+        ----------
+        other_params : dict or `.RcParams`
+            The input mapping from which to update.
+        """
+        if isinstance(other_params, RcParams):
+            other_params = dict.items(other_params)
+        dict.update(self, other_params)
+
+    def _ensure_has_backend(self):
+        """
+        Ensure that a "backend" entry exists.
+
+        Normally, the default matplotlibrc file contains *no* entry for "backend" (the
+        corresponding line starts with ##, not #; we fill in _auto_backend_sentinel
+        in that case.  However, packagers can set a different default backend
+        (resulting in a normal `#backend: foo` line) in which case we should *not*
+        fill in _auto_backend_sentinel.
+        """
+        dict.setdefault(self, "backend", rcsetup._auto_backend_sentinel)
+
     def __setitem__(self, key, val):
         try:
             if key in _deprecated_map:
@@ -964,24 +994,17 @@ Please do not ask for support with these customizations active.
     return config
 
 
-# When constructing the global instances, we need to perform certain updates
-# by explicitly calling the superclass (dict.update, dict.items) to avoid
-# triggering resolution of _auto_backend_sentinel.
 rcParamsDefault = _rc_params_in_file(
     cbook._get_data_path("matplotlibrc"),
     # Strip leading comment.
     transform=lambda line: line[1:] if line.startswith("#") else line,
     fail_on_error=True)
-dict.update(rcParamsDefault, rcsetup._hardcoded_defaults)
-# Normally, the default matplotlibrc file contains *no* entry for backend (the
-# corresponding line starts with ##, not #; we fill on _auto_backend_sentinel
-# in that case.  However, packagers can set a different default backend
-# (resulting in a normal `#backend: foo` line) in which case we should *not*
-# fill in _auto_backend_sentinel.
-dict.setdefault(rcParamsDefault, "backend", rcsetup._auto_backend_sentinel)
+rcParamsDefault._update_raw(rcsetup._hardcoded_defaults)
+rcParamsDefault._ensure_has_backend()
+
 rcParams = RcParams()  # The global instance.
-dict.update(rcParams, dict.items(rcParamsDefault))
-dict.update(rcParams, _rc_params_in_file(matplotlib_fname()))
+rcParams._update_raw(rcParamsDefault)
+rcParams._update_raw(_rc_params_in_file(matplotlib_fname()))
 rcParamsOrig = rcParams.copy()
 with _api.suppress_matplotlib_deprecation_warning():
     # This also checks that all rcParams are indeed listed in the template.
@@ -1193,7 +1216,7 @@ def rc_context(rc=None, fname=None):
             rcParams.update(rc)
         yield
     finally:
-        dict.update(rcParams, orig)  # Revert to the original rcs.
+        rcParams._update_raw(orig)  # Revert to the original rcs.
 
 
 def use(backend, *, force=True):
@@ -1239,7 +1262,7 @@ def use(backend, *, force=True):
     matplotlib.pyplot.switch_backend
 
     """
-    name = validate_backend(backend)
+    name = rcsetup.validate_backend(backend)
     # don't (prematurely) resolve the "auto" backend setting
     if rcParams._get_backend_or_none() == name:
         # Nothing to do if the requested backend is already set
@@ -1273,15 +1296,37 @@ if os.environ.get('MPLBACKEND'):
     rcParams['backend'] = os.environ.get('MPLBACKEND')
 
 
-def get_backend():
+def get_backend(*, auto_select=True):
     """
     Return the name of the current backend.
+
+    Parameters
+    ----------
+    auto_select : bool, default: True
+        Whether to trigger backend resolution if no backend has been
+        selected so far. If True, this ensures that a valid backend
+        is returned. If False, this returns None if no backend has been
+        selected so far.
+
+        .. versionadded:: 3.10
+
+        .. admonition:: Provisional
+
+           The *auto_select* flag is provisional. It may be changed or removed
+           without prior warning.
 
     See Also
     --------
     matplotlib.use
     """
-    return rcParams['backend']
+    if auto_select:
+        return rcParams['backend']
+    else:
+        backend = rcParams._get('backend')
+        if backend is rcsetup._auto_backend_sentinel:
+            return None
+        else:
+            return backend
 
 
 def interactive(b):
@@ -1343,7 +1388,7 @@ def _replacer(data, value):
     except Exception:
         # key does not exist, silently fall back to key
         pass
-    return sanitize_sequence(value)
+    return cbook.sanitize_sequence(value)
 
 
 def _label_from_arg(y, default_name):
@@ -1380,10 +1425,10 @@ def _add_data_doc(docstring, replace_names):
 
     data_doc = ("""\
     If given, all parameters also accept a string ``s``, which is
-    interpreted as ``data[s]`` (unless this raises an exception)."""
+    interpreted as ``data[s]`` if ``s`` is a key in ``data``."""
                 if replace_names is None else f"""\
     If given, the following parameters also accept a string ``s``, which is
-    interpreted as ``data[s]`` (unless this raises an exception):
+    interpreted as ``data[s]`` if ``s`` is a key in ``data``:
 
     {', '.join(map('*{}*'.format, replace_names))}""")
     # using string replacement instead of formatting has the advantages
@@ -1475,8 +1520,8 @@ def _preprocess_data(func=None, *, replace_names=None, label_namer=None):
         if data is None:
             return func(
                 ax,
-                *map(sanitize_sequence, args),
-                **{k: sanitize_sequence(v) for k, v in kwargs.items()})
+                *map(cbook.sanitize_sequence, args),
+                **{k: cbook.sanitize_sequence(v) for k, v in kwargs.items()})
 
         bound = new_sig.bind(ax, *args, **kwargs)
         auto_label = (bound.arguments.get(label_namer)
@@ -1513,7 +1558,19 @@ _log.debug('interactive is %s', is_interactive())
 _log.debug('platform is %s', sys.platform)
 
 
+@_api.deprecated("3.10", alternative="matplotlib.cbook.sanitize_sequence")
+def sanitize_sequence(data):
+    return cbook.sanitize_sequence(data)
+
+
+@_api.deprecated("3.10", alternative="matplotlib.rcsetup.validate_backend")
+def validate_backend(s):
+    return rcsetup.validate_backend(s)
+
+
 # workaround: we must defer colormaps import to after loading rcParams, because
 # colormap creation depends on rcParams
 from matplotlib.cm import _colormaps as colormaps  # noqa: E402
+from matplotlib.cm import _multivar_colormaps as multivar_colormaps  # noqa: E402
+from matplotlib.cm import _bivar_colormaps as bivar_colormaps  # noqa: E402
 from matplotlib.colors import _color_sequences as color_sequences  # noqa: E402

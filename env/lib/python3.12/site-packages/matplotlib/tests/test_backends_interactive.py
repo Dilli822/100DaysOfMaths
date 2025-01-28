@@ -78,7 +78,10 @@ def _get_available_interactive_backends():
         missing = [dep for dep in deps if not importlib.util.find_spec(dep)]
         if missing:
             reason = "{} cannot be imported".format(", ".join(missing))
-        elif env["MPLBACKEND"] == "tkagg" and _is_linux_and_xdisplay_invalid:
+        elif _is_linux_and_xdisplay_invalid and (
+                env["MPLBACKEND"] == "tkagg"
+                # Remove when https://github.com/wxWidgets/Phoenix/pull/2638 is out.
+                or env["MPLBACKEND"].startswith("wx")):
             reason = "$DISPLAY is unset"
         elif _is_linux_and_display_invalid:
             reason = "$DISPLAY and $WAYLAND_DISPLAY are unset"
@@ -86,7 +89,7 @@ def _get_available_interactive_backends():
             reason = "macosx backend fails on Azure"
         elif env["MPLBACKEND"].startswith('gtk'):
             try:
-                import gi  # type: ignore
+                import gi  # type: ignore[import]
             except ImportError:
                 # Though we check that `gi` exists above, it is possible that its
                 # C-level dependencies are not available, and then it still raises an
@@ -170,7 +173,8 @@ def _test_interactive_impl():
 
     if backend.endswith("agg") and not backend.startswith(("gtk", "web")):
         # Force interactive framework setup.
-        plt.figure()
+        fig = plt.figure()
+        plt.close(fig)
 
         # Check that we cannot switch to a backend using another interactive
         # framework, but can switch to a backend using cairo instead of agg,
@@ -228,10 +232,7 @@ def _test_interactive_impl():
     result_after = io.BytesIO()
     fig.savefig(result_after, format='png')
 
-    if not backend.startswith('qt5') and sys.platform == 'darwin':
-        # FIXME: This should be enabled everywhere once Qt5 is fixed on macOS
-        # to not resize incorrectly.
-        assert result.getvalue() == result_after.getvalue()
+    assert result.getvalue() == result_after.getvalue()
 
 
 @pytest.mark.parametrize("env", _get_testable_interactive_backends())
@@ -243,6 +244,9 @@ def test_interactive_backend(env, toolbar):
             pytest.skip("toolmanager is not implemented for macosx.")
     if env["MPLBACKEND"] == "wx":
         pytest.skip("wx backend is deprecated; tests failed on appveyor")
+    if env["MPLBACKEND"] == "wxagg" and toolbar == "toolmanager":
+        pytest.skip("Temporarily deactivated: show() changes figure height "
+                    "and thus fails the test")
     try:
         proc = _run_helper(
             _test_interactive_impl,
@@ -448,10 +452,12 @@ def qt5_and_qt6_pairs():
 
     for qt5 in qt5_bindings:
         for qt6 in qt6_bindings:
-            for pair in ([qt5, qt6], [qt6, qt5]):
-                yield pair
+            yield from ([qt5, qt6], [qt6, qt5])
 
 
+@pytest.mark.skipif(
+    sys.platform == "linux" and not _c_internal_utils.display_is_valid(),
+    reason="$DISPLAY and $WAYLAND_DISPLAY are unset")
 @pytest.mark.parametrize('host, mpl', [*qt5_and_qt6_pairs()])
 def test_cross_Qt_imports(host, mpl):
     try:
