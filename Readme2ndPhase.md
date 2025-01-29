@@ -60,7 +60,8 @@ Feel free to use these hashtags while finding the progress:
 | 57 | Probability Distributions: Normal,Uniform,Bernoulli,Binomial, Discrete to Continuous,PDF, CDF, PMF, Plot, https://x.com/dilli_hangrae/status/1883513435016884641
 | 58 | Central Distributions,Interpretation of Gaussian Distibution, Chi-Square Distribution, Sampling from distribution, Expected value,sum of expectation, expected value of function, mean,mediain, mode, variance, centering with mean,Deviation and Standard deviation, visual 2d, 3d and animation plot, https://x.com/dilli_hangrae/status/1883787272287605030
 | 59 | Moments of Distribution, Kurtosis, Skewness, Normal Distribution Approximation, Quantiles, QQ plot, Violin Plot,  Kernel Density Estimation, Variance and Expectation value, Sum of Normal Distribution, Scale, Standardize,Box plots, Normal Distribution Insight,Distributions:Chi-Square,Sampling,Expection:Value,Sum,Std Deviation,2D/3DPlot, https://x.com/dilli_hangrae/status/1884195052962066893
-
+| 60 | Joint Probability Distribution:Discrete,Continuous,Marginal,Conditional Distribution Probability, 2/3D Plots, https://x.com/dilli_hangrae/status/1884527017963794541
+|    |
 #### 💬 Get Involved
 Connect with me on social media or comment on my posts if you are interested in explore my learnings.
 
