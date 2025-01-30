@@ -32,7 +32,7 @@ Feel free to use these hashtags while finding the progress:
 
 | Day | Topic & Twitter Post  
 | --- | ------------------------------------------------------------------------------------------
-|   | 
+| 61  | Correlation Coefficient,Covariance & Covariance Matrix,Multivariate Gaussian Distribution, 2D/3D Plots, https://x.com/dilli_hangrae/status/1884935483865862185
 |   | 
 |   | 
 |   | 
