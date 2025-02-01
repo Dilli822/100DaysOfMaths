@@ -34,7 +34,7 @@ Feel free to use these hashtags while finding the progress:
 | --- | ------------------------------------------------------------------------------------------
 | 61  | Correlation Coefficient,Covariance & Covariance Matrix,Multivariate Gaussian Distribution, 2D/3D Plots, https://x.com/dilli_hangrae/status/1884935483865862185
 | 62  | Central Limit Theorem, Population,Sample,Proportion,Variance,Sample Variance,Law of Large Number, 2D/3D Plots, https://x.com/dilli_hangrae/status/1885240458605191451
-|   | 
+| 63  | Maximum Likelihood Estimation,Linear Regresion with MLE,Regularization,MLE:Bernoulli,Gaussian,Examples,2/3D Plots, https://x.com/dilli_hangrae/status/1885590438985523283
 |   | 
 |   | 
 |   | 
