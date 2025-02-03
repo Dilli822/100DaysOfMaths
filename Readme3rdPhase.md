@@ -35,8 +35,8 @@ Feel free to use these hashtags while finding the progress:
 | 61  | Correlation Coefficient,Covariance & Covariance Matrix,Multivariate Gaussian Distribution, 2D/3D Plots, https://x.com/dilli_hangrae/status/1884935483865862185
 | 62  | Central Limit Theorem, Population,Sample,Proportion,Variance,Sample Variance,Law of Large Number, 2D/3D Plots, https://x.com/dilli_hangrae/status/1885240458605191451
 | 63  | Maximum Likelihood Estimation,Linear Regresion with MLE,Regularization,MLE:Bernoulli,Gaussian,Examples,2/3D Plots, https://x.com/dilli_hangrae/status/1885590438985523283
-|  64 | Relationship between MLE,MAP & Regularization,Bayesian Statistics,Updating belief,Bayes theorem,2/3D Plots https://x.com/dilli_hangrae/status/1886250494844449258
-|   | 
+| 64  | Relationship between MLE,MAP & Regularization,Bayesian Statistics,Updating belief,Bayes theorem,2/3D Plots https://x.com/dilli_hangrae/status/1886250494844449258
+| 65  | Confidence Interval & level Intuition,Significance Level, Margin of errors,effect of sample size, 2/3D Plots, https://x.com/dilli_hangrae/status/1886341487102943635
 |   | 
 
 #### 💬 Get Involved
