@@ -38,7 +38,7 @@ Feel free to use these hashtags while finding the progress:
 | 64  | Relationship between MLE,MAP & Regularization,Bayesian Statistics,Updating belief,Bayes theorem,2/3D Plots https://x.com/dilli_hangrae/status/1886250494844449258
 | 65  | Confidence Interval & level Intuition,Significance Level, Margin of errors,effect of sample size, 2/3D Plots, https://x.com/dilli_hangrae/status/1886341487102943635
 | 66  | Confidence Interval:Calculation, Examples, Hypothesis,Type I & II error, Calculation of Sample Size,t-distribution, 2D/3D Plots, https://x.com/dilli_hangrae/status/1886746292979941761
-| | 
+| 67  | Crtical Values,P-values, Right,Left & Two-tailed test,Null & H_1 Hypothesis,Significance Level α, 2D/3D Plots, https://x.com/dilli_hangrae/status/1887146404730286478
 | | 
 | | 
 | | 
