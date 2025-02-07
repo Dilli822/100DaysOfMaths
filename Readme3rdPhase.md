@@ -40,7 +40,7 @@ Feel free to use these hashtags while finding the progress:
 | 66  | Confidence Interval:Calculation, Examples, Hypothesis,Type I & II error, Calculation of Sample Size,t-distribution, 2D/3D Plots, https://x.com/dilli_hangrae/status/1886746292979941761
 | 67  | Crtical Values,P-values, Right,Left & Two-tailed test,Null & H_1 Hypothesis,Significance Level α, 2D/3D Plots, https://x.com/dilli_hangrae/status/1887146404730286478
 | 68 | t-test,t-distribution vs normal distribution, hypothesis testing with right, left and two-tailed tests, power of test, results interpretation,2D/3D Plots,https://x.com/dilli_hangrae/status/1887499103460073665
-| | 
+| 69 | Paired-test, two sample t-test, A/B Testing, Formulas,Examples,Applications of Stats & Prob., 2D/3D Plots, https://x.com/dilli_hangrae/status/1887738903139881467
 | | 
 | | 
 | | 
