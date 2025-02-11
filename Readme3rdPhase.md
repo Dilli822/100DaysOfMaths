@@ -43,8 +43,8 @@ Feel free to use these hashtags while finding the progress:
 | 69 | Paired-test, two sample t-test, A/B Testing, Formulas,Examples,Applications of Stats & Prob., 2D/3D Plots, https://x.com/dilli_hangrae/status/1887738903139881467
 | 70 | Revisions:Probability with Terms,Law of P,Conditional P,Bayes theorem, Intro to statistical Inferences ,2D/3D Plots,https://x.com/dilli_hangrae/status/1888108548573511688
 | 71 | Bernoulli,Binomial,Geometric,Poisson mean & variance,2D/3D Plots,https://x.com/dilli_hangrae/status/1888495590453186844
-| 72 | Probability & Bayes Law,Complement,Mutual Exclusive,Independent,Descriptive & Inferential Stats ,2/3D Plots https://x.com/dilli_hangrae/status/1888971832197554428
-|    |
+| 72 | Probability & Bayes Law,Complement,Mutual Exclusive,Independent,Descriptive & Inferential Stats ,2/3D Plots, https://x.com/dilli_hangrae/status/1888971832197554428
+| 73 | Bayes Theorem, Expected Value, False Positive,False Negative Errors, Uses of Bayes Law,Testing, 2D/3D Plots,https://x.com/dilli_hangrae/status/1889302735326994848 
 |    |
 
 #### 💬 Get Involved
