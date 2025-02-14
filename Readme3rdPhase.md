@@ -47,7 +47,7 @@ Feel free to use these hashtags while finding the progress:
 | 73 | Bayes Theorem, Expected Value, False Positive,False Negative Errors, Uses of Bayes Law,Testing, 2D/3D Plots,https://x.com/dilli_hangrae/status/1889302735326994848 
 | 74 | Application of Bayes Classifier, Conditional Probability, Multivariate Gaussian distribution on Relationship between bayes classifier and perceptron under gaussian environment, 2d/3d plot, https://x.com/dilli_hangrae/status/1889746582158922048
 | 75 | Variance, Averaging, Poisson vs Binomial Distribution, Center Balance,Expected Values, Examples, 2D/3D Plots, https://x.com/dilli_hangrae/status/1889904150231785757
-|  |
+| 76 | Normal Distribution,Sampling,Inferential & Descriptive Stats, Standardize,Z-score,Empirical Rule, 2D/3D Plots Powered by Nōrai, https://x.com/dilli_hangrae/status/1890269207797149885
 |  |
 |  |
 |  |
