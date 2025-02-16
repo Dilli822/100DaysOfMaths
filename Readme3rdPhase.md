@@ -49,7 +49,7 @@ Feel free to use these hashtags while finding the progress:
 | 75 | Variance, Averaging, Poisson vs Binomial Distribution, Center Balance,Expected Values, Examples, 2D/3D Plots, https://x.com/dilli_hangrae/status/1889904150231785757
 | 76 | Normal Distribution,Sampling,Inferential & Descriptive Stats, Standardize,Z-score,Empirical Rule, 2D/3D Plots Powered by Nōrai, https://x.com/dilli_hangrae/status/1890269207797149885
 | 77 | Sampling: Methods,Process,Distribution Proportion, Standard Error,Central Limit Theorem,Variance, 2D/3D Plots ,https://x.com/dilli_hangrae/status/1890681509285138626
-| 78 | CI Interpretation & Components, Law of Large Number,Central Limit Theorem,Z-Score, Building CI, 2D/3D Plothttps://x.com/dilli_hangrae/status/1891105100904517855
+| 78 | CI Interpretation & Components, Law of Large Number,Central Limit Theorem,Z-Score, Building CI, 2D/3D Plot, https://x.com/dilli_hangrae/status/1891105100904517855
 |  |
 |  |
 |  |
