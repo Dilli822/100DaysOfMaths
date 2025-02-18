@@ -51,7 +51,7 @@ Feel free to use these hashtags while finding the progress:
 | 77 | Sampling: Methods,Process,Distribution Proportion, Standard Error,Central Limit Theorem,Variance, 2D/3D Plots ,https://x.com/dilli_hangrae/status/1890681509285138626
 | 78 | CI Interpretation & Components, Law of Large Number,Central Limit Theorem,Z-Score, Building CI, 2D/3D Plot, https://x.com/dilli_hangrae/status/1891105100904517855
 | 79 | One & two-sample test, z-test,t-test,p-value,⍺ level,Hypothesis Testing,type-I,type-II error, 2D/3D Plots, https://x.com/dilli_hangrae/status/1891428422536057257
-|  |
+| 80 | Derivative Motivations & Concepts, Notations, Common Lines dx,quadric eqns dx, Inverse Functions, 2D/3D Plots Powered by Nōrai  , https://x.com/dilli_hangrae/status/1891922278729797697
 |  |
 
 #### 💬 Get Involved
