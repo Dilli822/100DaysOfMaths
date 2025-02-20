@@ -53,6 +53,11 @@ Feel free to use these hashtags while finding the progress:
 | 79 | One & two-sample test, z-test,t-test,p-value,⍺ level,Hypothesis Testing,type-I,type-II error, 2D/3D Plots, https://x.com/dilli_hangrae/status/1891428422536057257
 | 80 | Derivative Motivations & Concepts, Notations, Common Lines dx,quadric eqns dx, Inverse Functions, 2D/3D Plots Powered by Nōrai  , https://x.com/dilli_hangrae/status/1891922278729797697
 | 81 | Continuous & Non-Continuous dx & dx of e,log,sinx,cosx, Derivatives Rule: Sum,Product,Chain Rule, 2D/3D Plots, https://x.com/dilli_hangrae/status/1892308384491188535
+| 82 | Tanget plane,Coin toss log-loss, minima,Optimization:log-loss,linear,quadric,cubic, 2D/3D Plots, https://x.com/dilli_hangrae/status/1892605054781419836
+|   |
+|   |
+|   |
+
 
 #### 💬 Get Involved
 Connect with me on social media or comment on my posts if you are interested in explore my learnings.
