@@ -54,7 +54,7 @@ Feel free to use these hashtags while finding the progress:
 | 80 | Derivative Motivations & Concepts, Notations, Common Lines dx,quadric eqns dx, Inverse Functions, 2D/3D Plots Powered by Nōrai  , https://x.com/dilli_hangrae/status/1891922278729797697
 | 81 | Continuous & Non-Continuous dx & dx of e,log,sinx,cosx, Derivatives Rule: Sum,Product,Chain Rule, 2D/3D Plots, https://x.com/dilli_hangrae/status/1892308384491188535
 | 82 | Tanget plane,Coin toss log-loss, minima,Optimization:log-loss,linear,quadric,cubic, 2D/3D Plots, https://x.com/dilli_hangrae/status/1892605054781419836
-|   |
+| 83 | Slicing the space using tangent plane, Partial Derivative,Optimization with ▽ & Gradient Descent, 2D/3D Plots Powered by Nōrai, https://x.com/dilli_hangrae/status/1892992589630185640
 |   |
 |   |
 
