@@ -57,7 +57,7 @@ Feel free to use these hashtags while finding the progress:
 | 83 | Slicing the space using tangent plane, Partial Derivative,Optimization with ▽ & Gradient Descent, 2D/3D Plots Powered by Nōrai, https://x.com/dilli_hangrae/status/1892992589630185640
 | 84 | Critical & Minimum Points,learning rate,▽variables, Optimizating linear regression with ▽ Descent, 2D/3D Plots Powered by Nōrai, https://x.com/dilli_hangrae/status/1893154400236913058
 | 85 | Classification with Perceptron:activation,gradient descent,derivatives, Loss Function,Sigmoid,MSE, 2D/3D Plots, https://x.com/dilli_hangrae/status/1893690031660790191
-|  |
+| 86 | Chain Rule, Gradient Descent & MLP Notations, Newton's Method(alternative to ▼ Descent,example, 2D/3D Plots,
 |  |
 |  |
 |  |
