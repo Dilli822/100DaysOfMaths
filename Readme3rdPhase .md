@@ -58,7 +58,8 @@ Feel free to use these hashtags while finding the progress:
 | 84 | Critical & Minimum Points,learning rate,▽variables, Optimizating linear regression with ▽ Descent, 2D/3D Plots Powered by Nōrai, https://x.com/dilli_hangrae/status/1893154400236913058
 | 85 | Classification with Perceptron:activation,gradient descent,derivatives, Loss Function,Sigmoid,MSE, 2D/3D Plots, https://x.com/dilli_hangrae/status/1893690031660790191
 | 86 | Chain Rule, Gradient Descent & MLP Notations, Newton's Method(alternative to ▼ Descent,example, 2D/3D Plots,https://x.com/dilli_hangrae/status/1894373162298786283
-|  |
+| 87 | Second Derivative Visualization – Plot of a function with its second derivative, showing concavity, Newton's Method – Step-by-step root-finding process using Newton's iteration, Notations for Second Derivatives – Examples of ∂²f/∂x², ∂²f/∂x∂y, and matrix representation, Hessian and Hessian Matrix – Visual representation of second-order derivatives and their role in optimization, Concavity (Up and Down) – Show where a function is concave up or down based on the second derivative, Newton's Method for Two Variables,Eigenvalues for Minima and Maxima, https://x.com/dilli_hangrae/status/1894460506339250521
+
 |  |
 |  |
 |  |
