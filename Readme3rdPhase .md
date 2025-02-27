@@ -61,7 +61,8 @@ Feel free to use these hashtags while finding the progress:
 | 87 | Second Derivative Visualization – Plot of a function with its second derivative, showing concavity, Newton's Method – Step-by-step root-finding process using Newton's iteration, Notations for Second Derivatives – Examples of ∂²f/∂x², ∂²f/∂x∂y, and matrix representation, Hessian and Hessian Matrix – Visual representation of second-order derivatives and their role in optimization, Concavity (Up and Down) – Show where a function is concave up or down based on the second derivative, Newton's Method for Two Variables,Eigenvalues for Minima and Maxima, https://x.com/dilli_hangrae/status/1894460506339250521
 | 88 | Intuitions of Linear Algebra,System of equations & Sentences, Singular,Non-Singular,Geometric Idea, 2/3D Plots, https://x.com/dilli_hangrae/status/1894606902388248901
 | 89 | Singular vs Non-Singular Matrix,System,Quiz,Egs, Linearly Dependent & Independent Row,2x2,3x3 Matrix Determinant, 2/3D Plots,https://x.com/dilli_hangrae/status/1894942042045980937
-|  |
+| 90 | Solving linear System,Row Echelon with reduced form, Rank of Matrix, Gaussian Elimination Algorithm, 2/3D Plots, https://x.com/dilli_hangrae/status/1895217057077305758
+
 |  |
 
 
