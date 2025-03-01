@@ -63,7 +63,7 @@ Feel free to use these hashtags while finding the progress:
 | 89 | Singular vs Non-Singular Matrix,System,Quiz,Egs, Linearly Dependent & Independent Row,2x2,3x3 Matrix Determinant, 2/3D Plots,https://x.com/dilli_hangrae/status/1894942042045980937
 | 90 | Solving linear System,Row Echelon with reduced form, Rank of Matrix, Gaussian Elimination Algorithm, 2/3D Plots, https://x.com/dilli_hangrae/status/1895217057077305758
 | 91 | Linear Transformations,Vectors & Operations,Matrix & Inverse,Neural Network with Matrix(Perceptron), 2/3D Plots,https://x.com/dilli_hangrae/status/1895591747612524957
-| 92 | Linear Independence & Dependence,Vector Span,Basis, |D| as product,area,PCA Intro,Singularity A , 2/3D Plots, https://x.com/dilli_hangrae/status/1895904854075449372
+| 92 | Linear Independence & Dependence,Vector Span,Basis, Determinant as product,area,PCA Intro,Singularity A, 2/3D Plots, https://x.com/dilli_hangrae/status/1895904854075449372
 | |
 | |
 
