@@ -65,7 +65,7 @@ Feel free to use these hashtags while finding the progress:
 | 91 | Linear Transformations,Vectors & Operations,Matrix & Inverse,Neural Network with Matrix(Perceptron), 2/3D Plots,https://x.com/dilli_hangrae/status/1895591747612524957
 | 92 | Linear Independence & Dependence,Vector Span,Basis, Determinant as product,area,PCA Intro,Singularity A, 2/3D Plots, https://x.com/dilli_hangrae/status/1895904854075449372
 | 93 | Find EigenVectors & EigenValues,Eigen Base, PCA Overview,Dimensionality Reduction & Projection, 2D/3D Plots,https://x.com/dilli_hangrae/status/1896285001312031137
-| |
+| 94 | Covariance & Variance (Matrix),PCA Detail,Markov Model, Unsupervised ML: Anomaly & Use Cases, 2D/3D Plots, https://x.com/dilli_hangrae/status/1896668911028056195
 
 
 
