@@ -69,7 +69,7 @@ Feel free to use these hashtags while finding the progress:
 | 95 | Reinforcement Learning: Anomaly Detection, Evaluate vs Supervised,Finding the features, Recommenders Intro, Normal Dist,P(x), 2D/3D Plots, https://x.com/dilli_hangrae/status/1896988536223760743
 | 96 | Collaborative Filtering Algorithm,Parameters items,Cost Function ▽J, Supervised vs Unsupervised ML,https://x.com/dilli_hangrae/status/1897355310047879440
 | 97 | Mean Normalization,Tensorflow AutoDiff,Memory labels in Recommender,Regression to Binary label classifier and cost function ▽J,2D/3D Plots, https://x.com/dilli_hangrae/status/1897714574306296314
-|  |
+| 98 | Collaborative vs Content-based Filtering with DL Architect, Recommending from large catalog,K-means, 2D/3D, Plots https://x.com/dilli_hangrae/status/1898078939744289034
 
 
 
