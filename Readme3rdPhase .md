@@ -71,6 +71,7 @@ Feel free to use these hashtags while finding the progress:
 | 97 | Mean Normalization,Tensorflow AutoDiff,Memory labels in Recommender,Regression to Binary label classifier and cost function ▽J,2D/3D Plots, https://x.com/dilli_hangrae/status/1897714574306296314
 | 98 | Collaborative vs Content-based Filtering with DL Architect, Recommending from large catalog,K-means, 2D/3D, Plots https://x.com/dilli_hangrae/status/1898078939744289034
 | 99 | Reinforcement Learning examples, Return,Policy, State Action Value Function, Markov Decision,ethics, 2D/3D Plots, https://x.com/dilli_hangrae/status/1898531436984189069
+|100 | Lunar Landing,Bellman eq,RL Algorithm with refinement, Make Decisions,Mini-batch & soft update,RL Cons, 2D/3D Plots, https://x.com/dilli_hangrae/status/1898800956256731273
 
 
 
